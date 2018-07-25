@@ -1,0 +1,14 @@
+.display-4, .lead, .btn {
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+}
+
+body {
+	background-image: url(earth.jpg);
+	background-size: cover;
+}
+
+.jumbotron {
+	background: rgba(0, 0, 0, 0.2);
+
+	}
